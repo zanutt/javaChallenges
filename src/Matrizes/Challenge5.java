@@ -1,3 +1,5 @@
+package Matrizes;
+
 public class Challenge5 {
     public static void main(String[] args) {/*Crie uma matriz 5x5 de inteiros e imprima os elementos da diagonal principal e da diagonal secundária.*/
         int[][] matriz = {

@@ -1,3 +1,5 @@
+package Matrizes;
+
 public class Challenge6 {
     public static void main(String[] args) {/* Dada uma matriz NxN, escreva um programa para rotacioná-la 90 graus no sentido horário.*/
         int[][] matriz = {

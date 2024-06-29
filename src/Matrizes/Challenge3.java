@@ -1,3 +1,5 @@
+package Matrizes;
+
 public class Challenge3 {/*Crie uma matriz 3x3 e calcule a sua matriz transposta.*/
     public static void main(String[] args) {
         int[][] matriz = {
